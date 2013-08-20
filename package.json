@@ -1,7 +1,8 @@
 {
   "name": "empty-module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Return an empty module, 'nuff said",
+  "readme": "Return an empty module, 'nuff said",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
